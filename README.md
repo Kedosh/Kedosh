@@ -21,7 +21,7 @@
 
 
 - 🔭 I’m currently working on TIK.
-- 🌱 I’m currently learning more about Web3.
+- 🌱 I’m currently learning more about Web 3.0.
 - 👯 I’m looking to collaborate on [Twitter](https://twitter.com/krytobyte).
 - 🤔 I’m looking for help with Popify.js.
 - 💬 Ask me about Web Development or any tech-related stuff.
