@@ -23,22 +23,22 @@
 - 🔭 I’m currently working on TIK.
 - 🌱 I’m currently learning more about Web3.
 - 👯 I’m looking to collaborate on [Twitter](https://twitter.com/krytobyte).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech-related stuff.
+- 🤔 I’m looking for help with Popify.js.
+- 💬 Ask me about Web Development or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @krytobyte](https://twitter.com/krytobyte) , [Youtube - @theinvinciblekreators](https://www.youtube.com/channel/UCT3Ok1Z4t72Sa_wbqhNnCUg/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day on spotify/ganna.
 
 [![Twitter: krytobyte](https://img.shields.io/twitter/follow/krytobyte?style=social)](https://twitter.com/krytobyte)
 [![Linkedin: krytobyte](https://img.shields.io/badge/-krytobyte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/developer-kedosh/)](https://www.linkedin.com/in/developer-kedosh/)
-[![GitHub kedosh](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/kedosh)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![GitHub kedosh](https://img.shields.io/github/followers/kedosh?label=follow&style=social)](https://github.com/kedosh)
+[![website](https://img.shields.io/badge/https://kedosh.github.io/assets/img/ai.jpg-2648ff?style=flat-square&logo=google-chrome)](https://kedosh.github.io)
 
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
