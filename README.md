@@ -32,7 +32,7 @@
 [![Twitter: krytobyte](https://img.shields.io/twitter/follow/krytobyte?style=social)](https://twitter.com/krytobyte)
 [![Linkedin: krytobyte](https://img.shields.io/badge/-krytobyte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/developer-kedosh/)](https://www.linkedin.com/in/developer-kedosh/)
 [![GitHub kedosh](https://img.shields.io/github/followers/kedosh?label=follow&style=social)](https://github.com/kedosh)
-[![website](https://img.shields.io/badge/web-2648ff?style=flat-square&logo=google-chrome)](https://kedosh.github.io)
+[![website](https://img.shields.io/badge/PortfolioWebsite-kedosh.github.io-2648ff?style=flat-square&logo=google-chrome)](https://kedosh.github.io)
 
 
 **Languages and Tools:**  
