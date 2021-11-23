@@ -11,9 +11,7 @@ function changeGreet(){
     randomGreet = greeting[Math.floor(Math.random() * greeting.length)];
 
     var g = document.getElementById('greetings').innerHTML = randomGreet;
-    //  greet.innerText = randomGreet;
- 
-       console.log("Change Greet")
+   
  }
 
  // Randomized Svg
@@ -200,7 +198,7 @@ console.log("Remove menu profile is working!")
 
 
 new Typewriter('#typewriter', {
-  strings: ['Developer K', 'UI/UX Designer', 'Web-Developer', 'Full Stack Developer', 'Web Developer Instructor', '3D Artist', 'Smart-Phone-Engineer', 'A.I Enthusiast' , ''],
+  strings: ['Krytobyte', 'UI/UX Designer', 'Web-Developer', 'Full Stack Developer', 'Web Developer Instructor', '3D Artist', 'Smart-Phone-Engineer', 'A.I Enthusiast' , ''],
   autoStart: true,
   loop: true,
   cursor: "|"
